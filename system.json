@@ -1,14 +1,14 @@
 {
-    "name":"SpaceSavageSys",
-    "title":"SavSpaceSystem",
-    "description":"this System its an System for fast chardesign",
-    "version":"0.0.1",
-    "templateversion":1,
-    "author":"PythonPyro",
-    "initiative":"1d10",
-    "gridDistance":"5",
-    "gridUnits":"m",
-    "primaryTokenAttribute":"health",
-    "url":"https://github.com/PythonPyro/FoundrySpaceSavageSys",
-    "manifest":"https://raw.githubusercontent.com/PythonPyro/FoundrySpaceSavageSys/master/system.json"
+    "name": "SpaceSavageSys",
+    "title": "SavSpaceSystem",
+    "description": "this System its an System for fast chardesign",
+    "version": "0.0.1",
+    "templateversion": 1,
+    "author": "PythonPyro",
+    "initiative": "1d10",
+    "gridDistance": "5",
+    "gridUnits": "m",
+    "primaryTokenAttribute": "health",
+    "url": "https://github.com/PythonPyro/FoundrySpaceSavageSys",
+    "manifest": "https://raw.githubusercontent.com/PythonPyro/FoundrySpaceSavageSys/master/system.json"
 }
