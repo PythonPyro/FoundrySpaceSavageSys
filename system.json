@@ -10,5 +10,6 @@
     "gridUnits":"m",
     "primaryTokenAttribute":"health",
     "url":"https://github.com/PythonPyro/FoundrySpaceSavageSys",
-    "manifest":"https://github.com/PythonPyro/FoundrySpaceSavageSys/system.json"
+    "manifest":"https://github.com/PythonPyro/FoundrySpaceSavageSys/system.json",
+    "download":""
 }
