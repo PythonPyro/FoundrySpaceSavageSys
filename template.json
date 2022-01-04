@@ -16,13 +16,18 @@
                     "value":""
                 }
             },
+            "dilemmata":{
+                "dilemmata1":"",
+                "dilemmata2":"",
+                "dilemmata3":""
+            },
             "name":"",
             "life":"",
             "init":""
             
         },
         "character":{
-            "templates":["attribute","name","life","init"],
+            "templates":["attribute","name","life","init","dilemmata"],
             "archetype":"",
             "motivation":"",
             "money":""
@@ -36,7 +41,7 @@
         }
     },
     "Item":{
-        "types":["item","skills","equipment","meleeweapon","rangedweapon","dilemmata"],
+        "types":["item","skills","equipment","meleeweapon","rangedweapon"],
         "templates":{
             "default":{
                 "name":"",
@@ -68,9 +73,6 @@
             "templates":["default","weapon"],
             "ammo":"",
             "capacity":""
-        },
-        "dilemmata":{
-            "templates":["default"]
         }
     }
 }
