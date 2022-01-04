@@ -36,7 +36,7 @@
         }
     },
     "Item":{
-        "types":["item","skills","equipment","meeleweapon","rangedweapon","dilemmata"],
+        "types":["item","skills","equipment","meleeweapon","rangedweapon","dilemmata"],
         "templates":{
             "default":{
                 "name":"",
@@ -61,7 +61,7 @@
         "equipment":{
             "templates":["default"]
         },
-        "meeleweapon":{
+        "meleeweapon":{
             "templates":["default","weapon"]
         },
         "rangedweapon":{
