@@ -1,5 +1,40 @@
 {
-    "Actor":{},
+    "Actor":{
+        "types":["character","creature","vehicle"],
+        "templates":{
+            "attribute":{
+                "strength":{
+                    "value":""
+                },
+                "agility":{
+                    "value":""
+                },
+                "intelligence":{
+                    "value":""
+                },
+                "empathy":{
+                    "value":""
+                }
+            },
+            "name":"",
+            "life":"",
+            "init":""
+            
+        },
+        "character":{
+            "templates":["attribute","name","life","init"],
+            "archetype":"",
+            "motivation":"",
+            "money":""
+        },
+        "creature":{
+            "templates":["attribute","name","life","init"],
+            "archetyp":"animal"
+        },
+        "vehicle":{
+            "templates":["name","life"]
+        }
+    },
     "Item":{
         "types":["item","skills","equipment","meeleweapon","rangedweapon","dilemmata"],
         "templates":{

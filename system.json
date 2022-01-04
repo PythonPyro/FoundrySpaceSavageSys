@@ -5,7 +5,6 @@
     "version": "0.0.1",
     "templateversion": 1,
     "author": "PythonPyro",
-    "initiative": "1d10",
     "gridDistance": "5",
     "gridUnits": "m",
     "primaryTokenAttribute": "health",
