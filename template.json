@@ -1,0 +1,41 @@
+{
+    "Actor":{},
+    "Item":{
+        "types":["item","skills","equipment","meeleweapon","rangedweapon","dilemmata"],
+        "templates":{
+            "default":{
+                "name":"",
+                "description":""
+            },
+            "weapon":{
+                "minstrength":"",
+                "range":"",
+                "damage":""
+
+            }
+        },
+        "item":{
+            "templates":["default"],
+            "effekt":"",
+            "duration":""
+        },
+        "skills":{
+            "templates":["default"],
+            "value":""
+        },
+        "equipment":{
+            "templates":["default"]
+        },
+        "meeleweapon":{
+            "templates":["default","weapon"]
+        },
+        "rangedweapon":{
+            "templates":["default","weapon"],
+            "ammo":"",
+            "capacity":""
+        },
+        "dilemmata":{
+            "templates":["default"]
+        }
+    }
+}
